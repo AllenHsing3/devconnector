@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://apple123:apple123@devconnector-fsv8i.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "apple123",
+    "githubClientId": "dbb083db5b773b44c704",
+    "githubSecret": "50cb019ea6b5bb12db74cd8ae4baef0c49641bd7"
+}
